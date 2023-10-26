@@ -1,0 +1,6 @@
+﻿id,name,vendor,instruction_word_count,cost_per_unit_usd,max_collection_volume_mL,n_components,mechanism,instruction_manual_link,product_link,,,,,,,,,,,,,,,,,,,,
+1,Medschenker,MedSchenker,623,1.2,10,3,Funnel attachment on tube & cap,,https://medschenker.com/saliva-collection-kit/,,,,,,,,,,,,,,,,,,,,
+2,Passive drool,Salimetrics,373,2.18,2,3,Passive drool method,,https://salimetrics.com/collection-method/passive-drool-saliva-collection-device/,,,,,,,,,,,,,,,,,,,,
+3,Salivette,Sarstedt,143,0.95,0,4,"Cotton roll absorbs saliva for set time, place back into vial, centrifuge for processing",,https://www.sarstedt.com/en/products/diagnostic/salivasputum/product/51.1534.100/,,,,,,,,,,,,,,,,,,,,
+4,SuperSal,Oasis Diagnostics,351,5,1.2,3,Absorbent pad + compression syringe for wringing out fluid from pad,,https://4saliva.com/products/super-sal/,,,,,,,,,,,,,,,,,,,,
+5,SwabSeq,,217,1.03,1,3,Funnel + cryovial,,https://compmed.ucla.edu/content/ucla-swabseq-covid-19-diagnostic-test,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,306 @@
+﻿id,subject_id,device_id,prior_use,instruction_difficulty,instruction_comments,assembly_difficulty,assembly_comments,collection_difficulty,collection_comments,leakage
+1,1,1,1-3 times,Difficult,Most instruction was directed to sample collectors not users.,Very easy,,Easy,,FALSE
+2,1,2,1-3 times,Fair,Lacking instruction to not blow into the tube which causes leaking,Very easy,,Difficult,The production of saliva took a while and it leaked multiple times.,TRUE
+3,1,3,1-3 times,Fair,The visual instructions very weird and kind of unhelpful.,Very easy,,Difficult,Again annoying and uncomfortable more than difficult,FALSE
+4,1,4,1-3 times,Easy,,Fair,,Fair,It was not difficult just annoying and uncomfortable.,FALSE
+5,1,5,More than 3 times,Very easy,,Easy,,Fair,,FALSE
+6,2,1,1-3 times,Fair,"Instructions do not state to insert funnel into tube for collection. 
+Unnecessary additional instructions for user.",Very easy,,Easy,"No stimulant to produce saliva made it hard to generate saliva.
+Wide funnel was nice as it did not block the flow of foamy saliva.",FALSE
+7,2,2,1-3 times,Easy,Device doesn't say anything about blowing air into the tube. I did that accidentally.  That resulted in very foamy saliva.,Easy,,Fair,Saliva became foamy and leaked out of the sides.,TRUE
+8,2,3,1-3 times,Fair,"Unclear if swab should be swished around mouth.
+Also I have no idea what panel 1 is illustrating.",Easy,,Difficult,"I swished the cotton pad around in my mouth and that produced a ton of saliva, way more than could be absorbed by the cotton pad. When I went to spit the cotton swab into the tube, saliva leaked everywhere.",TRUE
+9,2,4,1-3 times,Fair,"Unnecessary and confusing information in panel 7.
+Use of word ""expression"" in panel 10 was confusing. What does it mean?",Easy,,Fair,"Cotton swab in mouth was uncomfortable.
+Hard to see red circle without slightly removing the device from mouth.
+Hard to push down on plunger (plunger wings too small).",TRUE
+10,2,5,More than 3 times,Easy,,Easy,,Easy,Small hole meant viscous saliva had a little bit of difficulty getting through but did not inhibit easy saliva collection.,FALSE
+11,3,1,Never,Difficult,Took a while to collect 1mL.,Very easy,I appreciate the large tube + funnel.,Very difficult,Hard for dry-mouthed people (but not terrible),TRUE
+12,3,2,Never,Very easy,Easy + straight forward.,Very easy,Clear instructions made it easier.,Very easy,Easier + cleaner than the funnel method in my opinion.,TRUE
+13,3,3,Never,Difficult,Hard to not chew on it + be patient for 2 min.,Easy,I like the stacking tube. So sanitary.,Very easy,"Didn't even have to try, which was nice for my perpetually dry mouth.",TRUE
+14,3,4,Never,Difficult,"Confusing at first, then very clear.",Very easy,Very satisfying.,Difficult,Took a while for spot to turn red.,TRUE
+15,3,5,More than 3 times,Fair,Needed to refer to instructions multiple times.,Fair,Smaller tube + funnel was slightly more challenging.,Easy,"I'm used to this strategy, so maybe I'm biased?",TRUE
+16,4,1,Never,Very easy,,Very easy,,Very easy,,FALSE
+17,4,2,Never,Fair,It doesn't say to remove the cap and the associated picture doesn't make it very clear.,Very easy,,Very easy,"It was easy to tilt the tube to so I can see how much saliva was in it without removing it from my mouth and halting collection.
+I got a bit of saliva on my hand when removing the SCA.",TRUE
+18,4,3,Never,Fair,"The pictures were a bit confusing, esp. the indication for what to do 10 minutes before the collection.
+The written text wasn't very helpful.",Easy,I was expecting threaded connections between the cap and the vial.,Very easy,There isn't any feedback for whether enough saliva was collected.,FALSE
+19,4,4,Never,Easy,It was a little confusing how the 3 written instructions referred to the 7 picture instructions.,Very easy,Very straightforward.,Fair,It was inconvenient to have to remove the device from my mouth to check the red dot and some saliva leaked when pressing the plunger.,TRUE
+20,4,5,Never,Very easy,These were the best instructions from the set. Step 4 (think about foods) was a nice touch.,Very easy,The funnel fit in the tube very well.,Very easy,A small amount of saliva got stuck in the funnel but it didn't prevent collection of more saliva.,FALSE
+21,5,1,Never,Very easy,,Very easy,,Fair,It was a lot of saliva.,FALSE
+22,5,2,Never,Fair,I got confused with step 2.,Fair,Lid stuck.,Easy,It took a while to collect enough.,FALSE
+23,5,3,1-3 times,Fair,Letters too small.,Very easy,,Fair,Timing exactly 2 minutes can be annoying.,FALSE
+24,5,4,Never,Difficult,Some details are easy to miss.,Easy,,Difficult,"Even though I pushed hard enough, there was little to no saliva collected.",FALSE
+25,5,5,1-3 times,Very easy,,Very easy,,Very easy,,FALSE
+26,6,1,Never,Very easy,No special step for me to keep in mind.,Very easy,Very simple.,Very easy,"Very easy, but some of my saliva was remained at the entrance of funnel (device) that makes me uncomfortable.",TRUE
+27,6,2,Never,Easy,All steps' description is understandable.,Easy,"Since the step 2 does not let me remove the cap, I tried to assemble the SCA to the tube when it was closed. But when I understood correctly, everything was easy.",Very easy,Easier than SuperSal. Very fast active collection.,TRUE
+28,6,3,Never,Easy,I wondered that I should put the entire swab inside my mouth.,Easy,I needed to keep in mind that everything was perfectly sealed.,Very easy,It was very easy.,TRUE
+29,6,4,Never,Easy,All images are intuitive without step 3. I was a little bit confused at that step because I misunderstood that I should assemble the collector and compression tube and aspirate my saliva inside mouth.,Very easy,Very easy.,Fair,"It was hard to see the SVAI while collecting the saliva, so I needed to check several times to see the red.",FALSE
+30,6,5,Never,Very easy,Very intuitive and no special step for me to keep in mind.,Very easy,Very easy.,Difficult,"Due to the bubbles, air was stuck inside the tube so that saliva could not go down easily. To make it possible, I tapped a lot during the collection.",TRUE
+31,7,1,More than 3 times,Very easy,,Very easy,,Very easy,,FALSE
+32,7,2,Never,Very easy,,Very easy,,Difficult,Very slow but no less messy. Saliva doesn't go in unless you remove suction which is unintuitive.,TRUE
+33,7,3,Never,Very easy,,Easy,Packaging a bit unintuitive.,Fair,Took 2 whole minutes.,FALSE
+34,7,4,Never,Fair,A bit confusing.,Fair,,Very difficult,"Took forever, messy, uncomfortable.",TRUE
+35,7,5,More than 3 times,Very easy,,Very easy,,Fair,"Very messy, took some time.",TRUE
+36,8,1,Never,Fair,Similar to the SwabSeq.,Fair,Similar to SwabSeq.,Fair,Also need to check saliva volume periodically.,FALSE
+37,8,2,Never,Fair,It's pretty much the same as SwabSeq.,Fair,Similar to SwabSeq too.,Difficult,It's hard to guide the saliva into the vial. Also I have to check the volume.,TRUE
+38,8,3,Never,Fair,I am not sure whether I should place the whole swab into the mouth.,Fair,Not very difficult.,Easy,Quite easy because I only need to leave it in my mouth.,TRUE
+39,8,4,Never,Fair,Similar to the Salivette.,Fair,,Fair,Need to read the SVAI periodically.,TRUE
+40,8,5,1-3 times,Fair,Steps are clear.,Fair,It's straightforward to place the funnel into the top of the tube.,Fair,I have to wait and check the level of my saliva in the tube.,FALSE
+41,9,1,Never,Very easy,,Very easy,,Very easy,,FALSE
+42,9,2,Never,Easy,"It's a little bit more complicated, but not too bad.",Very easy,,Fair,"The SCA got clogged during the collection. Also, it takes quite a bit of time for the saliva to drop down to the vial. I also saw saliva leaking from the connection part between the SCA and the vial.",TRUE
+43,9,3,Never,Easy,Not so complicated.,Very easy,,Very easy,Again no spitting is good.,FALSE
+44,9,4,Never,Fair,It's a bit complicated. I did not fully understand after reading the instruction. Maybe it's better with the video instruction.,Very easy,,Very easy,It's good that I did not have to spit.,FALSE
+45,9,5,More than 3 times,Very easy,Used this many times before.,Very easy,,Easy,It takes some effort spitting.,FALSE
+46,10,1,1-3 times,Very easy,Could have done without reading. Some info wasn't useful like non-hazard waste.,Very easy,Could have done without instructions.,Very easy,It did not spill.,FALSE
+47,10,2,More than 3 times,Easy,,Easy,,Fair,Kind of weird guiding spit.,FALSE
+48,10,3,1-3 times,Very difficult,Wasn't sure after reading.,Easy,No assembly really.,Easy,Just tasted terrible and saliva dripped.,TRUE
+49,10,4,1-3 times,Difficult,Does it have to go under the tongue?,Fair,It was easy but many parts which all to permutations of use.,Fair,I had to use the most effort and it felt weird.,FALSE
+50,10,5,1-3 times,Very easy,I like that they said think of food.,Fair,It was hard to screw in funnel. Funnel size was smaller than my mouth.,Easy,A bit flimsy as I spat.,FALSE
+51,11,1,Never,Fair,"Font unreadable (small, times new roman?). Lack of diagrams. Unnecessary information.",Easy,,Easy,Nice that funnel was big.,FALSE
+52,11,2,Never,Fair,Black and white diagrams. Unclear if I needed to unscrew cap.,Difficult,Cap was too tight I couldn't figure out how to assemble. The SCA broke into two pieces when trying to take it out.,Easy,,TRUE
+53,11,3,Never,Easy,Font too small.,Fair,The main tube fell out when I was trying to remove cap.,Very easy,If I had taken [the swab] out w/ my hands like it said in the instruction diagram it would have [got onto my hands].,FALSE
+54,11,4,Never,Difficult,Did not mention I needed to take the collector apart from collection tube.,Easy,,Fair,It takes longer and I had to keep taking out to check red dot.,FALSE
+55,11,5,More than 3 times,Easy,,Very easy,,Easy,,TRUE
+56,12,1,Never,Easy,"Tough to [ineligible] - contained technical information, storage and handling information that other kits didn't include. Actual user instructions were simple.",Very easy,,Easy,,FALSE
+57,12,2,Never,Fair,"Set up was simple, but directing saliva into the tube wasn't very clear.",Easy,,Fair,,TRUE
+58,12,3,Never,Fair,The pictures were a bit confusing --> spitting multiple times first wasn't clear.,Easy,,Easy,"The 2 minute time was too long, but it was nice that it was passive.",TRUE
+59,12,4,Never,Difficult,It wasn't clear to me that you had to separate out the collector from the tube or where would be best to collect pooled saliva in the mouth.,Fair,,Difficult,Took longer than expected to collect enough saliva. Hard for me to generate saliva with collector in mouth.,TRUE
+60,12,5,More than 3 times,Easy,Too many instructions --> no need to describe how to produce saliva or twist off the cap.,Easy,,Easy,,FALSE
+61,13,1,Never,Fair,"Lots of extra info (storage, etc) not applicable to saliva collection.",Very easy,,Easy,I liked the shape of the funnel--more comfortable than the SwabSeq!,FALSE
+62,13,2,Never,Difficult,Not very explanatory.,Easy,,Very difficult,"I thought they were fair, but the fact that it's called 'passive' made me think I couldn't spit into the tube. I thus tried just putting it under my tongue (where saliva pools) and tilting my head, but saliva wouldn't go into the tube! ",FALSE
+63,13,3,Never,Easy,The directions themselves were easy-the format (very tiny text) was rather hard to read.,Very easy,,Very easy,I like that I didn't have to spit but could rather let something absorb my saliva--I really liked that.,FALSE
+64,13,4,Never,Fair,Most complicated set-up of the 5.,Fair,Actual device components were easy to assemble.,Very difficult,"Took a long time to collect saliva. Then, hurt my hand to use plunger. Also, the tube leaked.",TRUE
+65,13,5,Never,Very easy,"Funny-thinking about favorite food.
+Device itself pretty self-explanatory.",Easy,,Fair,Had to tap the tube to get saliva to flow from funnel into tube.,TRUE
+66,14,1,Never,Easy,"Wasn't that clear on how to ""collect"" the sample but it showed on the package itself.",Very easy,The funnel being put in the tube was straightforward.,Very easy,"Other than not getting enough saliva, spitting into the funnel was pretty easy.",FALSE
+67,14,2,Never,Very easy,It was straightforward.,Easy,Slightly difficult to insert/remove the device from tube.,Easy,Not sure if I was supposed to take my mouth off but I did to check the line. Spit kept leaking out the top whenever I did.,TRUE
+68,14,3,Never,Easy,Wasn't entirely sure how to get swab/do with swab until instructed.,Very easy,No assembly.,Easy,"Swab was large and uncomfortable, but didn't have to spit.",FALSE
+69,14,4,Never,Fair,"Didn't realize you pull the foam part out and put that into mouth instead of the syringe tip, but may have been personal bias of previous saliva tests. Also, the instructions were a little complicated.",Easy,"The pieces fit in together. Definitely took a bit of effort, though.",Easy,The saliva collection using the collector was quite easy but pressing the syringe for 30s strained my fingers a little.,FALSE
+70,14,5,Never,Very easy,Straightforward.,Easy,"Also straightforward but funnel didn't fit too well, which caused a little confusion.",Easy,Spitting into funnel was harder than experiment #2.,FALSE
+71,15,1,Never,Difficult,The instructions were intimidating. There was lots of extraneous information. A key step (unscrew tube) was missing.,Very easy,,Very difficult,I couldn't tell at all if I'd collected what I was supposed to.,FALSE
+72,15,2,Never,Difficult,I didn't understand what sniffing meant. Also confusing how to insert the piece.,Fair,Ok but I wasn't sure at first how to insert the piece in the tube.,Very difficult,I had a hard time knowing when I was done. I got soaked in saliva.,TRUE
+73,15,3,Never,Fair,The instructions were weird--there was a picture of a baby with blood in its mouth. The font was too small for me.,Very easy,,Difficult,The feeling in my mouth was very unpleasant.,TRUE
+74,15,4,Never,Fair,I was a bit overwhelmed with the multiple steps.,Easy,I had trouble opening the eppendorf tube because I'd just cut my nails.,Fair,I found it confusing at first--it was unclear whether it was working for a little while.,FALSE
+75,15,5,More than 3 times,Easy,Nice to see large font. I was a bit unclear on how much exactly to collect from the instructions.,Easy,A bit hard to uncap the tube and not lose the cap which is very small.,Fair,I got a bit wet.,TRUE
+76,16,1,Never,Easy,,Easy,,Fair,"Not sure how to put mouth on funnel, but the saliva does go in easily.",FALSE
+77,16,2,Never,Easy,,Fair,Not sure how far to put SCA in.,Fair,,TRUE
+78,16,3,Never,Fair,Confusing what you can do with the cotton in your mouth (where it should/can go).,Easy,,Fair,,FALSE
+79,16,4,Never,Fair,More complex than the other options.,Fair,More components & steps than others.,Difficult,"More difficult than others, seems to take a while for the material to absorb enough.",TRUE
+80,16,5,More than 3 times,Easy,,Fair,Sometimes hard to get the funnel in correctly (then bubbles build up etc),Fair,,FALSE
+81,17,1,Never,Easy,,Very easy,,Easy,,FALSE
+82,17,2,Never,Easy,In step 2 the instructions do not include a comment on removing the cap from the tube before inserting the SCA.,Very easy,,Fair,,TRUE
+83,17,3,Never,Easy,Font too small.,Very easy,,Easy,,FALSE
+84,17,4,Never,Easy,,Easy,,Easy,"A bit hard to hold for 30 sec, but otherwise quite simple.",FALSE
+85,17,5,More than 3 times,Very easy,,Easy,,Easy,"The tube is a bit small, by the time it is half full with liquid it is overflowing with spit + air bubbles.",FALSE
+86,18,1,Never,Very easy,,Very easy,Did not think funnel shape helped with collection (opening should be round).,Fair,,FALSE
+87,18,2,Never,Easy,"""Relax and let saliva flow"" is optimistic wording.",Very easy,,Difficult,,TRUE
+88,18,3,Never,Very easy,,Very easy,,Easy,,FALSE
+89,18,4,Never,Difficult,Contents picture does not picture devices the way they came out of the plastic bag.,Fair,,Easy,,TRUE
+90,18,5,More than 3 times,Very easy,,Fair,,Difficult,,TRUE
+91,19,1,Never,Difficult,"Instructions are mostly for lab personnel, rather than user. User-facing part was very vague.",Very easy,,Very easy,,FALSE
+92,19,2,Never,Very easy,,Very easy,,Very easy,,FALSE
+93,19,3,Never,Very easy,,Very easy,,Very easy,,TRUE
+94,19,4,Never,Fair,"There are 2 items in the packaging, but the instructions say there should be three.",Very easy,,Very easy,,FALSE
+95,19,5,Never,Very easy,,Very easy,,Fair,Other funnel device was easier because the aperture of the funnel was larger.,FALSE
+96,20,1,Never,Fair,I really liked the directions for use + image of the device--those two makes it very easy. The rest is so extraneous.,Very easy,,Fair,I did not like the oval funnel shape. Saliva got on my face.,TRUE
+97,20,2,Never,Difficult,"My saliva wasn't ""pooling"" so it didn't seem like passive collection. Instead I had to actively generate saliva.",Very easy,,Easy,Easy once I figured out how to make saliva.,TRUE
+98,20,3,Never,Very easy,,Very easy,,Very easy,Easy but tasted bad.,TRUE
+99,20,4,Never,Very difficult,Had to reread steps. The acronyms SAVI made comprehension slower.,Fair,3 components is kinda a lot.,Easy,,TRUE
+100,20,5,Never,Easy,Kinda too many steps. But I like the pictures + text together.,Very easy,"But maybe just one diagram of how it should be assembled in the end, this one seems very intuitive to do.",Very easy,,FALSE
+101,21,1,Never,Easy,,Easy,,Easy,That the whole thing is large made it easier to use than the SwabSeq one.,FALSE
+102,21,2,Never,Easy,,Easy,,Easy,"It's nice that unlike in SwabSeq, the corrugated end prevented the saliva from flowing out.",FALSE
+103,21,3,Never,Easy,,Easy,,Easy,,FALSE
+104,21,4,Never,Fair,,Fair,,Fair,The procedure is more convoluted.,FALSE
+105,21,5,More than 3 times,Easy,,Easy,,Difficult,"I often have trouble getting saliva from the funnel to the tube, and the saliva often flows out after forming a bubble at the mouth of the tube.",TRUE
+106,22,1,Never,Easy,,Easy,,Fair,,FALSE
+107,22,2,Never,Easy,,Fair,Caps too tight,Fair,,TRUE
+108,22,3,Never,Fair,Words are too small.,Easy,,Easy,,FALSE
+109,22,4,Never,Fair,,Fair,,Fair,,TRUE
+110,22,5,More than 3 times,Easy,,Easy,,Difficult,Opening is small so saliva gets stuck.,TRUE
+111,23,1,Never,Easy,"The instructions were easy to understand, but long. The text was small.",Very easy,No issues with assembly.,Easy,I'm glad that I did not have to fill the tube completely. This funnel had a better shape than the SwabSeq funnel. I was less worried about saliva leakage.,FALSE
+112,23,2,Never,Easy,The diagram was very easy to follow/understand. I preferred the diagram to text instructions.,Very easy,The components were easy to orient.,Difficult,"I wasn't sure that I had generated enough saliva & didn't know when I could stop. My mouth had dried up & I felt like I had to spit in order to fill the tube, so it wasn't very ""passive.""",TRUE
+113,23,3,Never,Fair,"The diagram seemed to suggest that I should insert the swab into the larger tube after collection, so that was confusing. I also didn't know if I could talk or swallow during the 2 minute collection period.",Very easy,It wasn't too challenging to open a tube & put a cotton swab in my mouth.,Very easy,See above. Not hard to stick a swab in my mouth. I prefer this to spitting.,FALSE
+114,23,4,Never,Difficult,I was confused about the swab/compression mechanism. I thought they were separate pieces & didn't realize I had to take the swab out of the compression tube.,Easy,"The eppendorf tube attached easy enough, but the seal wasn't very tight & my saliva leaked during the last step.",Difficult,"First of all, it was hard to get the thing open. The compression step at the end took too much effort.",TRUE
+115,23,5,More than 3 times,Easy,"I prefer images to text, but I was glad that the font size was not designed for ants to read. The directions were simple.",Very easy,The components fit together nicely. It is easy to tell what goes with what.,Fair,"I felt like my saliva was running down the outside of the funnel, so I was worried about getting spit on my hands and the tube. I like that so little saliva is required so the collection process is fast overall.",TRUE
+116,24,1,Never,Very easy,,Very easy,,Very easy,The shape of the funnel was good for your mouth & spitting into the tube.,FALSE
+117,24,2,Never,Easy,,Very easy,,Easy,I like this one it just seemed like it took longer for the saliva to travel through the mouth piece.,FALSE
+118,24,3,Never,Easy,,Easy,,Very easy,I liked this one I just didn't like touching the pad with my hands after.,TRUE
+119,24,4,Never,Fair,The second/third step were a little confusing once I saw the device.,Fair,A little confusing at first.,Fair,This one got more on my hands than the Salivette.,TRUE
+120,24,5,Never,Very easy,,Easy,The funnel was a little tough to get in at first.,Very easy,I like the shape of the first funnel better but I like this tube better.,FALSE
+121,25,1,More than 3 times,Very easy,Easy to follow but with a lot of unnecessary info.,Very easy,,Very easy,,TRUE
+122,25,2,Never,Difficult,"Step 2 looks like stripped part goes bottom, in step 3 it looks like stripped part goes in mouth. Also would rather not have to touch part that goes in my mouth later.",Easy,,Very easy,At the beginning it was hared to tell if anything was falling.,FALSE
+123,25,3,Never,Easy,Unclear what top right image means (mouth-H2O). Unclear if below/over tongue. Font too small in instructions.,Very easy,,Fair,"Very uncomfortable (texture, size) to have in mouth and bad tasting.",FALSE
+124,25,4,Never,Very easy,Easy to follow.,Very easy,,Easy,"Took a bit too long, also a bit uncomfortable at the beginning but much less than Salivette.",FALSE
+125,25,5,More than 3 times,Very easy,"Great, easy to follow.",Very easy,,Very easy,Easier than cotton swab passive tests.,TRUE
+126,26,1,Never,Very difficult,"Why all these technical details & jargon for the end-user, when instructions are only 3 lines?",Very easy,,Very easy,Great.,FALSE
+127,26,2,Never,Difficult,"What do these instructions even mean, ""gently?""",Fair,,Fair,It's fine.,TRUE
+128,26,3,Never,Fair,Fig 1. in instructions is incomprehensible.,Very easy,,Very easy,Not sure how much was actually collected--no way to tell.,FALSE
+129,26,4,Never,Fair,,Fair,"Eppendorf & tube don't really prevent leakage, not very clear how tight tolerances are, how fragile assembly is.",Easy,"Surprisingly ok, the circle is visible.",TRUE
+130,26,5,1-3 times,Difficult,Why would I want to rotate the funnel,Easy,,Easy,Much easier than other times I've used it.,FALSE
+131,27,1,Never,Very difficult,The instructions were awful. Only trained personnel? Clearly I shouldn't be using it.,Easy,,Very difficult,Tube is way too big. Have to wait for saliva to run down it.,TRUE
+132,27,2,Never,Difficult,"""Gently guide"" is confusing.",Very difficult,Cap was too tight to unscrew.,Difficult,,FALSE
+133,27,3,Never,Fair,Instructions do not state whether mouth must stay closed.,Easy,,Fair,"Unknown. I don't know how much ""extremely small amount"" is.",TRUE
+134,27,4,Never,Fair,,Fair,It wasn't immediately clear that I had to pull the collector from compression tube.,Easy,,FALSE
+135,27,5,More than 3 times,Easy,,Easy,,Fair,,FALSE
+136,28,1,Never,Easy,"The instructions were easy, but the whole text was confusing and unnecessarily long.",Easy,,Fair,"If the amount of saliva needed was lower, this would be a great device.",FALSE
+137,28,2,Never,Fair,,Fair,,Fair,,TRUE
+138,28,3,Never,Easy,But too small.,Easy,,Very easy,"It was very easy but also quite disagreeable, the pad had an awful taste.",TRUE
+139,28,4,Never,Difficult,,Fair,,Very difficult,"It takes too long, it is a bit frustrating, and having to time 30s while holding tubes full of saliva doesn't sound very appealing.",TRUE
+140,28,5,Never,Fair,,Fair,,Difficult,,TRUE
+141,29,1,Never,Very easy,,Very easy,,Very easy,,FALSE
+142,29,2,Never,Very easy,,Very easy,,Easy,,FALSE
+143,29,3,Never,Very easy,,Very easy,,Very easy,,FALSE
+144,29,4,Never,Easy,,Very easy,,Fair,My mouth is naturally dry so it ended up taking around the longer side.,TRUE
+145,29,5,More than 3 times,Very easy,,Very easy,,Very easy,,FALSE
+146,30,1,Never,Fair,"Big words. Also said not to use unless I'm ""skilled personnel"" or ""trained personnel"" of which I am neither.",Very easy,Clearly twist-off.,Easy,,FALSE
+147,30,2,Never,Fair,"For what the actual process is, they're pretty complicated. Don't know what a ""whole saliva"" is though.",Easy,Straightforward except I had to double check to see which end of the white tube was supposed to go down.,Fair,"It seems simple but it's pretty painful to purse your lips for that long. Also there is a strong temptation to spit to speed up the process. This is the rosemary pastrami of saliva collection devices: not the worst, but pretty bad.",FALSE
+148,30,3,Never,Fair,Pictures were a little weird--I don't know what image 1 means other than don't eat.,Easy,Not clear if it was screw-off or pull-off. Otherwise easy.,Very easy,Just boring.,TRUE
+149,30,4,Never,Very difficult,SVAI? It's a red circle! Which one is the compression tube and not the Eppendorf tube? What's an eppendorf? They do have a link to a video which is good.,Very difficult,Not clear what connects where. Does the blue bit come out all the way? Is the compression tube connected to the blue thing? Looks like a syringe--does it work like a syringe?,Difficult,I had to hold it in my hand above my mouth. And it's annoying to check the red circle (SVAI). This device is stupid.,TRUE
+150,30,5,More than 3 times,Very easy,"Big font. Small words. Thumbs up. Although step 4 made me feel a little patronized, but I can spit pretty easily so maybe it'd be helpful for others.",Very easy,I just wish the funnel fit a little better but otherwise very simple and straightforward.,Easy,Saliva blockage was a little frustrating as it slowed down what ought to be a quick process.,TRUE
+151,31,1,Never,Fair,Lots of words - unclear what are actual instructions,Easy,,Very easy,,FALSE
+152,31,2,Never,Easy,,Fair,Hard to get collection aid into tube (How deep did it have to go in?),Difficult,Hard to obtain that much spit (took a while) and direct into tube,FALSE
+153,31,3,Never,Easy,,Very easy,,Fair,It was uncomfortable to hold swab in mouth for 2 minutes.,FALSE
+154,31,4,Never,Fair,,Difficult,Many components that needed to be assembled,Very difficult,It doesn't look like any saliva has collected.,TRUE
+155,31,5,Never,Very easy,,Fair,A little difficult to get funnel into tube,Easy,,FALSE
+156,32,1,Never,Easy,,Very easy,,Difficult,,FALSE
+157,32,2,Never,Fair,,Very difficult,,Fair,,FALSE
+158,32,3,Never,Very easy,,Easy,,Very easy,,FALSE
+159,32,4,Never,Difficult,,Difficult,,Difficult,,TRUE
+160,32,5,Never,Very easy,,Very easy,,Very difficult,,TRUE
+161,33,1,Never,Difficult,Too much wording. Not enough visuals. Not for use by general public.,Easy,,Easy,,TRUE
+162,33,2,Never,Difficult,SCA - jargon confusing,Fair,,Fair,,TRUE
+163,33,3,Never,Very easy,Print too small. Good graphic.,Easy,,Fair,2 minutes felt long.,FALSE
+164,33,4,Never,Easy,,Easy,,Easy,But took time.,FALSE
+165,33,5,More than 3 times,Easy,,Easy,,Easy,,TRUE
+166,34,1,Never,Very easy,,Very easy,,Very easy,,FALSE
+167,34,2,Never,Difficult,,Fair,,Difficult,,TRUE
+168,34,3,Never,Easy,,Easy,,Easy,But felt inconvenience.,FALSE
+169,34,4,Never,Fair,,Fair,,Fair,Hard to check the appearance of SVAI changes.,FALSE
+170,34,5,More than 3 times,Easy,,Easy,,Very difficult,Bubbles are always stuck in the tube due to Bretherton phenomena. Always leakage occur after collection and closing the lid.,TRUE
+171,35,1,Never,Very easy,,Very easy,,Very easy,,FALSE
+172,35,2,Never,Very easy,,Very easy,,Very easy,"It was a little confusing the term ""relax and allow saliva to pool"" but all good.",FALSE
+173,35,3,Never,Fair,"It would be more clear to say, put the ""entire"" swab in your mouth. Also, the tube the swab is put in after is not 100% clear (small vs. large).",Very easy,,Very easy,,FALSE
+174,35,4,Never,Difficult,The collector and compression tube being stored together was a little confusing because I felt like they were supposed to stay together.,Fair,See prev. comment. (about instructions),Easy,,TRUE
+175,35,5,More than 3 times,Very easy,,Very easy,,Very easy,,FALSE
+176,36,1,1-3 times,Very easy,,Very easy,,Easy,,TRUE
+177,36,2,1-3 times,Fair,,Fair,,Difficult,Very easy to spill and get saliva everywhere.,TRUE
+178,36,3,1-3 times,Easy,,Very easy,,Very difficult,Extremely uncomfortable to keep cotton in mouth for 2 mins. Easy to spill sample.,TRUE
+179,36,4,1-3 times,Easy,Clear illustrations.,Easy,,Very difficult,Very uncomfortable to keep cotton in mouth. Hurts fingers/hand to squeeze out saliva into tube.,FALSE
+180,36,5,1-3 times,Fair,,Fair,Funnel is flimsy and would prefer it to be larger.,Fair,Easy to overflow.,TRUE
+181,37,1,Never,Easy,Unclear from written instructions how much saliva I should deposit into tube.,Easy,Funnel rested in tube a stable way without airtight seal - good.,Easy,"Easy collection, especially due to wide funnel diameter (hence no airtight seal or vacuum in tube) but took some time to reach desired height/amount of saliva.",FALSE
+182,37,2,Never,Easy,"Pictures were helpful, but cartoon/diagram would be even better (grayscale shading was confusing).",Very easy,"Could hold with one hand, and flat base was stable on table.",Very easy,"SCA (collection aid) made getting saliva into tube much easier than other methods (swab, funnel), but downside is accuracy, since saliva is still in SCA when desired height is needed inside tube. So potential for overfill if SCA is big/long.",FALSE
+183,37,3,Never,Fair,Unclear from written instructions whether I could move it around in my mouth.,Easy,,Fair,Wanted to be careful to not wring out saliva from swab in my mouth through the mouth vacuum suction/compression by tongue/cheeks.,FALSE
+184,37,4,Never,Fair,"Pictures with labels were helpful, but process seems relatively complex.",Fair,"Small gap between compression tube and eppendorf tube led to leakage, should be warned about in instructions.",Fair,"Not difficult but took time for SVAI to begin to appear red, especially due to long length of collector swab.",TRUE
+185,37,5,1-3 times,Easy,,Easy,May need 2 hands (1 to hold funnel at angle to tube),Fair,"The first time I used this method about a year ago, I had trouble getting saliva into the tube from funnel due to airtight seal. So this time I angled funnel outlet to facilitate transfer of saliva from funnel into tube.",FALSE
+186,38,1,Never,Easy,,Easy,It would have been nice if the funnel was secured into place.,Very easy,Pretty straightforward and fast.,FALSE
+187,38,2,Never,Very easy,,Very easy,Nicest of the spit/funnel based collection methods. The funnel is easy to spit into and snaps into place.,Very easy,,FALSE
+188,38,3,Never,Very easy,,Very easy,,Easy,,FALSE
+189,38,4,Never,Difficult,Needed to read it multiple times. Too many steps.,Difficult,Wasn't immediately clear that the sponge collects the saliva then is compressed to release it.,Fair,,TRUE
+190,38,5,Never,Very easy,,Easy,It was not clear if the funnel should snap into place.,Easy,,FALSE
+191,39,1,Never,Very easy,,Very easy,,Very easy,,FALSE
+192,39,2,Never,Easy,,Easy,,Difficult,"Procedure wasn't difficult, but hard to tell when it was full (or if it was working).",TRUE
+193,39,3,Never,Very easy,,Very easy,,Very easy,,FALSE
+194,39,4,Never,Very easy,,Very easy,,Very easy,This one was really fast! (qualitatively),FALSE
+195,39,5,Never,Very easy,,Very easy,,Very easy,,FALSE
+196,40,1,More than 3 times,Very easy,,Very easy,,Very easy,,FALSE
+197,40,2,Never,Very easy,,Easy,Cap a bit stiff.,Fair,"Went a bit over, got saliva on hands.",TRUE
+198,40,3,Never,Fair,Instructions made this seem way more complicated than it was.,Easy,,Easy,,TRUE
+199,40,4,Never,Fair,It could be clearer that the collector isn't fixed to the compression tube. Instructions were a little iffy on that.,Fair,,Fair,Took a while to get the red dot.,TRUE
+200,40,5,Never,Easy,,Difficult,Sieve didn't fit tube very nicely.,Very difficult,"This was so messy, vacuum pockets galore.",TRUE
+201,41,1,Never,Fair,,Easy,A little confusing at first - where the funnel needs to go,Very easy,,FALSE
+202,41,2,Never,Very easy,,Very easy,,Difficult,Lack of a funnel makes it hard to direct the saliva into the tube. It also enhances the chances of air bubbles forming.,TRUE
+203,41,3,Never,Very easy,,Very easy,,Very easy,This is a little strange in the way it collects saliva - but super easy.,FALSE
+204,41,4,Never,Fair,It was a little confusing at first - but I recovered.,Fair,,Fair,Pushing on the syringe is a bit tricky.,FALSE
+205,41,5,More than 3 times,Very easy,,Very easy,,Fair,It seemed very difficult to produce saliva on cue at first. Since I've used this multiple times now I know what I should do.,FALSE
+206,42,1,Never,Very easy,,Very easy,,Very easy,,FALSE
+207,42,2,Never,Easy,,Easy,,Fair,,TRUE
+208,42,3,Never,Easy,Small font,Fair,Both compartment opened at the same time.,Difficult,"Took a while, hard not to chew.",TRUE
+209,42,4,Never,Difficult,,Fair,,Difficult,,TRUE
+210,42,5,More than 3 times,Very easy,,Very easy,,Very easy,,TRUE
+211,43,1,Never,Very easy,,Very easy,,Very easy,Easier to hold and better funnel design than SwabSeq.,FALSE
+212,43,2,Never,Very easy,,Very easy,,Easy,Slightly more annoying than the funnel/tube one. Felt like I was always on the verge of spilling it.,TRUE
+213,43,3,Never,Fair,,Easy,,Easy,Less unpleasant than the Oasis.,FALSE
+214,43,4,Never,Fair,,Easy,,Difficult,Felt like it took a long time and the collector is very unpleasant.,TRUE
+215,43,5,More than 3 times,Very easy,,Easy,,Fair,,FALSE
+216,44,1,Never,Fair,"Not descriptive, doesn't explain how to attach tube to funnel, barely even explains that you're simply spitting in a tube.",Easy,,Easy,Easier than device #3 (Passive drool). Nothing simpler than spitting in a big fat test tube.,TRUE
+217,44,2,Never,Difficult,Not clear what part of the saliva collection was ok to touch and what needed to be kept sterile.,Easy,,Difficult,Requires a lot of saliva & relies entirely on someone's unassisted rate of salivation.,TRUE
+218,44,3,Never,Fair,Wasn't sure at first if the inner tube should be kept or tossed.,Very easy,,Very easy,,FALSE
+219,44,4,1-3 times,Fair,Used once before for a workplace drug test. Familiar with the design.,Fair,"Easy since I've sort of seen it done before, but I would understand it being very difficult for someone else's first time.",Very easy,Easy but slow.,FALSE
+220,44,5,Never,Very easy,,Fair,Funnel does not fit in the top of the collection tube.,Very easy,,FALSE
+221,45,1,Never,Easy,,Very easy,,Easy,,FALSE
+222,45,2,Never,Very easy,,Very easy,,Fair,It's a little hard to see the tube while collecting.,FALSE
+223,45,3,Never,Very easy,,Easy,,Very easy,,FALSE
+224,45,4,1-3 times,Fair,,Easy,,Difficult,"The hard part is pushing down on the syringe. The collector is a bit uncomfortable, but it does help saliva production.",FALSE
+225,45,5,Never,Very easy,,Very easy,,Fair,"Small funnel, leakage might be more likely",FALSE
+226,46,1,Never,Very easy,,Very easy,,Very easy,,FALSE
+227,46,2,Never,Easy,,Fair,,Fair,,FALSE
+228,46,3,Never,Very easy,,Very easy,,Easy,,FALSE
+229,46,4,Never,Fair,,Very easy,,Fair,,TRUE
+230,46,5,More than 3 times,Easy,"Instructions say to ""think of favorite food"" to salivate but then I spit that all out into a cup before starting.",Easy,,Easy,,FALSE
+231,47,1,Never,Very easy,No instruction on volume or foam.,Very easy,,Easy,"Spitting accurately is not very easy, it's just easy.",FALSE
+232,47,2,Never,Easy,,Very easy,,Fair,Messy,TRUE
+233,47,3,Never,Fair,What the heck is this picture with the water cup that says 1-5 sec? No mention of the tube having two parts.,Easy,Surprised when the tube came apart.,Very easy,There's no way I produced enough saliva in 2 min. No way to gauge if there was enough. Swab seemed pretty dry but I had to use my fingers to pull it from mouth so definitely got some saliva on hand.,TRUE
+234,47,4,Never,Fair,Thought it was a syringe to suck out the pooled saliva at first. Was obviously not when I opened the kit.,Very easy,,Very easy,Very slow though. Difficult to gauge progress.,FALSE
+235,47,5,More than 3 times,Very easy,The think of favorite foods comment is actually very helpful. The little picture of pizza was especially nice.,Easy,Only trouble in that they are so tiny.,Easy,The challenge is to not make a mess spitting into the funnel.,FALSE
+236,48,1,Never,Very easy,,Very easy,,Very easy,,FALSE
+237,48,2,Never,Easy,Referring to devices/parts before the user looks at them is not ideal. Maybe user has to open the packaging first and then read instructions?,Very easy,,Difficult,This procedure lacks decency.,TRUE
+238,48,3,Never,Fair,Picture 1 is confusing.,Fair,"Instructions did not mention that the cap needs to be pulled, not twisted.",Easy,Making the users touch the saliva infused pad is not ideal. What if they can't wash hands immediately afterwards?,TRUE
+239,48,4,Never,Very difficult,"Instruction manual reads like a research paper. Not user friendly. Referring to Fig. 4, using acronyms, some hard German-like words, referring to a video on their website make it worse. And, the figures were not entirely clear.",Easy,,Easy,Pressing into the compression tube for 30 s is hard.,FALSE
+240,48,5,1-3 times,Very easy,,Very easy,,Easy,,FALSE
+241,49,1,Never,Very easy,Unclear from instructions the quality of specimen needed.,Very easy,Easy to assemble. Only (small) issue is with holding the funnel in place while collecting specimen.,Easy,"1mL took a while to collect, but otherwise easy.",FALSE
+242,49,2,Never,Easy,The pictures in the instructions could be better (more clear) but not essential.,Easy,,Fair,"The collection process seemed to create a lot of bubbles (even through the instructions state the ""vented design"" reduces foaming). There was so much foam, that it started overflowing through the vent & it took longer than needed to collect sufficient sample.",TRUE
+243,49,3,Never,Difficult,"The images are unclear & provide additional instructions that were not stated/included in the written instructions (e.g. step #1 in the picture instructs the user not to eat 1 hr prior to collecting sample & also requires the user to rinse their mouths prior to collecting sample. The instructions also don't explain all components of the kit (i.e. the tube inside the outer tube). The user may toss the inner tube, if it weren't (verbally) explained that it is meant to be kept & returned with the sample inside. The last issue is that there is no quantitative marker for the amount of sample that must be collected. However the instructions state that ""if an extremely small amount of saliva is produced, leave the swab in the mouth for longer."" It's unclear what is considered an extremely small amount.",Easy,,Very easy,"It was easy to collect, I'm just uncertain I provided enough sample to receive accurate results from the test.",FALSE
+244,49,4,Never,Easy,,Easy,,Difficult,"Took longer to collect enough saliva to transfer to the eppendorf tube. Also messy (when pushing down the plunger, excess sample was expelled through the space between the eppendorf & collection tube). Also required more saliva since not everything is efficiently transferred to the eppendorf from the sponge.",TRUE
+245,49,5,Never,Very easy,,Easy,,Difficult,It was difficult to collect specimen. Saliva would easily leak out between the funnel & collection tube. Half my saliva ended up on the outside of the collection tube.,TRUE
+246,50,1,Never,Fair,,Very easy,,Easy,,TRUE
+247,50,2,Never,Fair,,Easy,,Easy,,FALSE
+248,50,3,Never,Difficult,,Easy,,Easy,,TRUE
+249,50,4,Never,Difficult,,Fair,,Very difficult,,TRUE
+250,50,5,More than 3 times,Very easy,They tell you tips for pooling saliva!,Easy,,Easy,,TRUE
+251,51,1,Never,Difficult,"Images on package were clear, instructions on sheet included extraneous information",Easy,,Very easy,,FALSE
+252,51,2,Never,Easy,,Easy,,Fair,,FALSE
+253,51,3,Never,Difficult,Very tiny text,Easy,,Easy,,TRUE
+254,51,4,Never,Fair,Preservative statement is unnecessarily confusing,Easy,,Difficult,,TRUE
+255,51,5,Never,Very easy,,Easy,,Easy,Lots of foaming due to narrowness of tube,TRUE
+256,52,1,Never,Easy,No information about the volume of saliva to collect on the manual.,Very easy,,Very easy,,FALSE
+257,52,2,Never,Very easy,There is no information about the volume of the sample to collect on the manual.,Very easy,,Very easy,,TRUE
+258,52,3,Never,Fair,The instruction figure for pre-test requirement is kind of confusing. No clear information mentions that the mini-tube should be kept. Instruction is pretty short so that it does not require too much reading.,Easy,,Fair,"Easy to collect but takes long. Also, there are risks of contamination, e.g. device (mini tube) surface touching dirty surface; hands directly touching the cotton (as shown on the instructions)",FALSE
+259,52,4,Never,Easy,,Very easy,,Difficult,"Taking too long to meet the requirement for collecting enough sample as instructed, and the actual sample collected was far more than the volume shown on the manual.",TRUE
+260,52,5,More than 3 times,Easy,"No clear information about the optimal volume of sample to collect on the manual. This instruction provides tips for better saliva secretion, which is great.",Easy,,Very easy,,FALSE
+261,53,1,Never,Very easy,"Not sure how much to collect, unless instructed by proctor.",Very easy,,Easy,"Easy to collect, but needed lots of time to collect enough sample.",FALSE
+262,53,2,Never,Easy,"Did not mention removing cap from tube, also some words not used very commonly e.g. cryotubes",Very easy,,Easy,Easy to collect but hard to move device to check volume which made it more difficult.,FALSE
+263,53,3,Never,Easy,The text was not sufficient to complete the test.,Very easy,,Easy,Getting the cotton swab out and into mouth was cumbersome and felt strange holding it with my bare hands.,FALSE
+264,53,4,Never,Difficult,The schematic and words were not clear enough to indicate what needed to be done for sample collection.,Easy,,Difficult,Took a long time and had to remove collection pad to check several times.,TRUE
+265,53,5,More than 3 times,Very easy,,Very easy,,Easy,Had to check to make sure I wasn't collecting excess bubbles.,FALSE
+266,54,1,Never,Very easy,,Very easy,,Easy,,FALSE
+267,54,2,Never,Very easy,,Very easy,,Fair,Difficult to produce a lot of saliva.,TRUE
+268,54,3,Never,Very easy,,Very easy,,Easy,,FALSE
+269,54,4,Never,Fair,Didn't realize that collector needed to be removed from compression tube.,Very easy,,Fair,,FALSE
+270,54,5,Never,Very easy,,Very easy,,Very easy,,TRUE
+271,55,1,Never,Easy,,Very easy,,Easy,,FALSE
+272,55,2,Never,Fair,,Very easy,,Easy,,FALSE
+273,55,3,Never,Very easy,,Easy,,Very easy,,FALSE
+274,55,4,Never,Fair,,Easy,,Fair,,TRUE
+275,55,5,Never,Easy,,Easy,,Easy,,FALSE
+276,56,1,Never,Easy,,Very easy,,Easy,,FALSE
+277,56,2,Never,Fair,,Fair,,Difficult,,TRUE
+278,56,3,Never,Easy,,Easy,,Fair,,FALSE
+279,56,4,Never,Difficult,,Fair,,Fair,,TRUE
+280,56,5,Never,Very easy,,Very easy,,Fair,,TRUE
+281,57,2,Never,Easy,,Easy,,Difficult,The air channels allowed saliva to escape and leak.,TRUE
+282,57,3,Never,Easy,A bit small but otherwise fine.,Very easy,,Very easy,Doing nothing made the 2 min feel longer than if there was more action.,TRUE
+283,57,4,Never,Fair,Understanding the components and how they worked took a moment,Fair,Managing 3 parts without dropping them was a bit difficult.,Easy,"Quite simple once I understood how it worked, wasn't sure if it was working at first because the color wasn't changing.",FALSE
+284,57,5,More than 3 times,Easy,,Easy,,Difficult,"Equalizing the air pressure with the surface tension is difficult, meaning the saliva doesn't want to go into the tube easily.",TRUE
+285,58,2,Never,Easy,,Easy,,Easy,,TRUE
+286,58,3,Never,Easy,,Very easy,,Easy,,FALSE
+287,58,4,Never,Fair,,Easy,,Fair,,TRUE
+288,58,5,Never,Very easy,,Very easy,,Very easy,,TRUE
+289,59,2,Never,Difficult,"The second and third pictures seemed contradictory. I don't think I would have used it right without further clarifications,",Easy,,Very easy,,FALSE
+290,59,3,Never,Very easy,,Very easy,,Very easy,This was way more comfortable than spitting into something. I really liked it.,FALSE
+291,59,4,Never,Very difficult,There are too many steps and it's hard to follow.,Fair,Having to push all the way down and all the postprocessing that is required is very inconvenient.,Fair,It felt uncomfortable in the mouth because a big part is sticking out.,FALSE
+292,59,5,,Fair,There is lots of issues with the saliva being stuck at the funnel and instructions do not tell you how to deal with that.,Very easy,,Very difficult,Saliva kept leaking out and being stuck in the funnel. Plus having the funnel so close to your mouth is disgusting.,TRUE
+293,60,2,Never,Easy,,Easy,,Very easy,"I still had to suck out spit, my saliva didn't pool fast enough, and ""guiding"" it didn't really work.",FALSE
+294,60,3,Never,Easy,The small font was the biggest problem.,Easy,I wasn't sure how to get the first cap off.,Very easy,,FALSE
+295,60,4,Never,Difficult,Probably need a different name than Eppendorf tube.,Difficult,,Easy,"It was pretty simple, I just got impatient.",TRUE
+296,60,5,Never,Easy,,Fair,I'm glad someone was there to point out where to put everything,Difficult,It wouldn't go down the tube. Very hard to actually get it to go through.,TRUE
